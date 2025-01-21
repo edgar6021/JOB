@@ -1,0 +1,6 @@
+{
+    "require": {
+        "mike42/escpos-php": "^2.0",
+        "setasign/fpdf": "^1.8"
+    }
+}
